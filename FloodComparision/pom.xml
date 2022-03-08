@@ -29,7 +29,7 @@
 		<poi.version>4.1.0</poi.version>
 		<poiOoxml.version>4.1.0</poiOoxml.version>
 		<poiOoxmlSchemas.version>4.1.0</poiOoxmlSchemas.version>
-		<poiScratchpad.version>4.1.0</poiScratchpad.version>
+		<poiScratchpad.version>5.2.1</poiScratchpad.version>
 		<staxApi.version>1.0-2</staxApi.version>
 		<xmlBean.version>1.5.5</xmlBean.version>
 	</properties>
